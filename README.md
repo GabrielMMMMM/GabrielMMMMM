@@ -20,3 +20,5 @@
     <img align = "center"alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
     <img align = "center"alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
+Apaixonado por aprender, usar, ensinar Tecnologia e Fazer projetos.
